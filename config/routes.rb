@@ -1,4 +1,6 @@
 Reference::Application.routes.draw do
+  get "table/index"
+
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
